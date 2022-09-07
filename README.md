@@ -1,13 +1,3 @@
-# Dune frontend tech test
-
-First of all, thank you for taking the time to do our tech test! The purpose of this exercise is to help us get an idea about the way you work and get a glimpse about your technical abilities.
-
-This is a time restricted exercise, so it is best if you keep your code simple and easy to understand, and, write it in a way that is easy to extend or change.
-
-The requirements may be vague for parts of it but we trust your judgement to interpret them and deliver something of value.
-
-Good luck!
-
 ## The assignment
 
 You are a frontend software engineer and you just inherited a project written by an intern. The project is an application that allows you to run arbitrary SQL queries against a database.
@@ -35,7 +25,7 @@ yarn install
 yarn run start
 ```
 
-3. Open your browser and navigate to `http://localhost:3000`. You should be able to see the rudimental application written by the intern.
+3. Open your browser and navigate to `http://localhost:1234`. You should be able to see the rudimental application written by the intern.
 
 Please note that you can only run queries on the `blocks` table.
 
